@@ -10,4 +10,4 @@ Story Public Link 1   https://public.tableau.com/app/profile/krishnan.m8428/viz/
 
 Story Public Link 2   https://public.tableau.com/app/profile/krishnan.m8428/viz/Story2_16970101681480/Story2
 
-Video Demonis  https://drive.google.com/file/d/1B9cq1S9oPSVo_mOcvNg_BxQtYDIqpsoP/view?usp=drivesdk
+Video Demonstarition  https://drive.google.com/file/d/1B9cq1S9oPSVo_mOcvNg_BxQtYDIqpsoP/view?usp=drivesdk
